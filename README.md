@@ -13,7 +13,7 @@ Meu nome é Lazaro Bitencourt e sou um apaixonado por tecnologia e estudante de 
 </div>
 
 <br>
-
+[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <div align="center">
 <a href="https://www.linkedin.com/in/lazarobitencourt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   ![](https://visitor-badge.glitch.me/badge?page_id=LazaroBitencourt)
