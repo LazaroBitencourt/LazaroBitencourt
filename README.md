@@ -16,7 +16,7 @@ show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-<a href="https://www.linkedin.com/in/lazarobitencourt/" target="_blank"><img src="https://img.shields.io/badge/LinkendIn-%23007B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+<a href="https://www.linkedin.com/in/lazarobitencourt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23007B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LazaroBitencourt)
 </div>
