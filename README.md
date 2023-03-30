@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil👋
 
-Meu nome é Lazaro Bitencourt e sou um apaixonado por tecnologia e estudante de engenaharia de software.
+Meu nome é Lazaro Bitencourt e sou um apaixonado por tecnologia e estudante de engenharia de software.
 
 <br>
 
