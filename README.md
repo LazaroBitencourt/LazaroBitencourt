@@ -3,7 +3,7 @@
 Lazaro Bitencourt | Engenheiro de Software & Desenvolvedor 💻
 
 Técnico em Desenvolvimento de Sistemas e Graduado em Engenharia de Software. 
-Construindo aplicações eficientes, limpas e escaláveis.
+
 <br>
 
 <!-- GITHUB STATUS -->
