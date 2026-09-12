@@ -1,7 +1,9 @@
 ### Boas vindas ao meu perfil👋
 
-Meu nome é Lazaro Bitencourt e sou um apaixonado por tecnologia e estudante de engenharia de software.
+Lazaro Bitencourt | Engenheiro de Software & Desenvolvedor 💻
 
+Técnico em Desenvolvimento de Sistemas e Graduado em Engenharia de Software. 
+Construindo aplicações eficientes, limpas e escaláveis.
 <br>
 
 <!-- GITHUB STATUS -->
